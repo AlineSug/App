@@ -5,3 +5,5 @@ Simply input the prices and quantities of two items, and let Calculator App work
 With a user-friendly and simple interface and quick calculations, Calculator App help you save money effortlessly. Stop overspending and start maximizing your savings today!
 
 This App was created in Python language/Kivy library
+
+<img width="341" alt="Captura de Tela 2024-10-20 às 20 48 32" src="https://github.com/user-attachments/assets/3ee46065-bd02-4227-a3c4-1340c81fecaa">
